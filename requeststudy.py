@@ -1,4 +1,4 @@
-import request_01
+import requests
 
 # 通过get请求数据
 # response = requests.get(url='http://www.qq.com')
